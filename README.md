@@ -1,1 +1,2 @@
-Chat-app built with NodeJS
+# Chat-app
+## `https://wesolowski-chat-app.herokuapp.com/`
